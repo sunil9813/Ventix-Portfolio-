@@ -1,0 +1,13 @@
+export { Header } from "../components/common/Header";
+export { Hero } from "../screen/hero/Hero";
+export { Service } from "../screen/service/Service";
+export { Portfolio } from "../screen/portfolio/Portfolio";
+export { PortfolioDetails } from "../screen/portfolio/PortfolioDetails";
+export { Resume } from "../screen/Resume";
+export { Skill } from "../screen/Skill";
+export { Testimonial } from "../screen/Testimonial";
+export { Blog } from "../screen/blog/Blog";
+export { Contact } from "../screen/Contact";
+export { Footer } from "../components/common/Footer";
+export { Layout } from "../components/common/Layout";
+export { Home } from "../pages/Home";
